@@ -19,6 +19,7 @@ export default function App() {
           <Right />
           <Right />
           </div>
+           <footer>Open Source-Code by <a href="https://github.com/Alinadot/weather-react" target="_blank" rel="noreferrer">Alina Shamko</a></footer>
       </div>
     </div>
   );
