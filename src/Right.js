@@ -11,6 +11,7 @@ export default function Right() {
             <img
               className="icon-size"
               src=" https://openweathermap.org/img/wn/03d@2x.png"
+              alt="Weather icon"
             />
             <span className="forecast-temperature">11°</span>
           </span>
