@@ -5,7 +5,7 @@ import Search from "./Search";
 import Main from "./Main";
 import Left from "./Left";
 import Right from "./Right";
-import Footer from "./Footer";
+
 
 export default function App() {
   return (
@@ -15,7 +15,6 @@ export default function App() {
           <Search />
           <Main />
           <Left />
-          <Footer />
           <Right />
           <Right />
           <Right />
