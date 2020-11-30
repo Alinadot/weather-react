@@ -27,14 +27,11 @@ export default function Left() {
             13
           </strong>
           <span className="units">
-            <a href="#" id="celsius-link" className="active">
+            
               °C
-            </a>{" "}
-            <span className="separate">|</span>
-            <a href="#" id="fahrenheit-link">
-              °F
-            </a>
-          </span>
+        <span className="separate">|</span>
+                        °F
+                      </span>
         </div>
       </div>
     </div>
