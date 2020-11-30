@@ -1,0 +1,14 @@
+.App {
+  font-family: "Open Sans", sans-serif;
+}
+.app-wrapper {
+  max-width: 400px;
+  margin: 0 auto;
+}
+.weather-app {
+  border: 1px solid #dadde1;
+  border-radius: 10px;
+  background-image: linear-gradient(15deg, #74a1b9, #80d0c7);
+  box-shadow: rgba(37, 39, 89, 0.08) 0px 8px 8px 0;
+  height: 400px;
+}

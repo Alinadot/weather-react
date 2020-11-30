@@ -1,0 +1,16 @@
+h1 {
+  position: relative;
+  top: 5px;
+  font-size: 37px;
+  margin-left: 25px;
+  font-weight: 100;
+  color: #fff;
+}
+h2 {
+  font-size: 20px;
+  color: #625772;
+  margin-left: 25px;
+}
+hr {
+  border: 1px solid white;
+}
