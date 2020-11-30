@@ -19,8 +19,8 @@ export default function App() {
           <Right />
           <Right />
           </div>
-           <footer>Open Source-Code by <a href="https://github.com/Alinadot/weather-react" target="_blank" rel="noreferrer">Alina Shamko</a></footer>
-      </div>
+           <small><footer>Open Source-Code by <a href="https://github.com/Alinadot/weather-react" target="_blank" rel="noreferrer">Alina Shamko</a></footer>
+      </small></div>
     </div>
   );
 }
